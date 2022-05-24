@@ -2,7 +2,7 @@
 
 -:+1: meu nome é Manu Braga17.
 - 👀 I’m interested in  aprender a programar novas linguagens.
-- 🌱 I’m currently learning a programar
+- 🌱 I’m currently learning programar
 
 <!---
 ManuBraga17/ManuBraga17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
